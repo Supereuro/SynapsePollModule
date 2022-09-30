@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+synapse_poll_module/__init__.py
+synapse_poll_module/database.py
+synapse_poll_module.egg-info/PKG-INFO
+synapse_poll_module.egg-info/SOURCES.txt
+synapse_poll_module.egg-info/dependency_links.txt
+synapse_poll_module.egg-info/requires.txt
+synapse_poll_module.egg-info/top_level.txt
